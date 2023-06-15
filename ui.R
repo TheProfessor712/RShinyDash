@@ -13,7 +13,7 @@ intro_panel <- tabPanel(
   p("This is my first test R Shiny app using the Chronic Conditions PUF! The original
     data set can be found at the link below."),
   
-  p(a(href = "https://www.kaggle.com/barelydedicated/mariokart8?select=characters.csv", "Data Source (Kaggle)"))
+  p(a(href = "https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/BSAPUFS/Chronic_Conditions_PUF", "Data Source (CMS.gov)"))
 )
 
 # Page 2 - Vizualization -------------------------------------------
